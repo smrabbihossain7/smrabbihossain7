@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Mohammed Rabbi Hossain</h1>
+<h1 align="center">Ahoy there! 👋, I'm Syed Mohammed Rabbi Hossain</h1>
 <h3 align="center">A driven Computer Science Engineering student specializing in Artificial Intelligence, proficient in machine learning algorithms, neural networks, and data analysis. Passionate about leveraging technology to solve complex problems and drive innovation in diverse domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrabbihossain7&label=Profile%20views&color=0e75b6&style=flat" alt="smrabbihossain7" /> </p>
